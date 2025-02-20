@@ -1,6 +1,4 @@
-Reclame Aqui Scraper
-
-Este projeto é um web scraper desenvolvido em Python para extrair dados do site Reclame Aqui. Ele utiliza bibliotecas como Selenium e Beautiful Soup para coletar informações sobre reclamações respondidas, indíces de solução e notas das empresas
+Este projeto é um script de raspagem de dados desenvolvido em Python para extrair dados do site Reclame Aqui. Ele utiliza bibliotecas como Selenium e Beautiful Soup para coletar informações sobre reclamações respondidas, indíces de solução e notas das empresas
 e exporta em forma de arquivo .xlsx para posterior modificação no Excel
 
 Tecnologias Utilizadas
