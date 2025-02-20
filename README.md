@@ -23,8 +23,8 @@ BeautiFulSoup4, Pandas, Selenium e openpyxl
 
 Observações!!
 
-1- Por algum motivo o reclame aqui em horário comercial tem altas chances de gerar erros SSL
-caso o código seja executado em horário com alto volume de usuários e não seja carregado em até 5 segundos 
-é preciso parar o carregamento do site manualmente ou pode acabar gerando erros SSL, basta clicar no X onde fica o botão de atualizar a página, após a primeira raspagem não tem mais necessidades de parar o site.
+1- Por algum motivo, o reclame aqui em horário comercial tem altas chances de gerar erros SSL,
+caso o código seja executado em horário com alto volume de usuários e não seja carregado em até 5 segundos,
+será preciso parar o carregamento do site manualmente, ou pode acabar gerando erros SSL, basta clicar no X onde fica o botão de atualizar a página, após a primeira raspagem não tem mais necessidades de parar o site.
 
 2- O script não está passando de captchas, então antes da primeira rapsagem é preciso passar manualmente do captcha, nas outras tentativas não tem necessidade pois o captcha não reaparece.
