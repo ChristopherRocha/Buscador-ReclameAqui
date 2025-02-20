@@ -15,9 +15,9 @@ Funcionalidades
 
 Coleta de dados das 3 melhores e 3 piores empresas de algum ramo do reclame aqui.
 
-Exportação dos dados para CSV ou Excel para análises futuras.
+Exportação dos dados para planilha do Excel(.xlsx) para análises ou modificações futuras.
 
-Bibliotecas necessárias para rodar o programa
+Bibliotecas necessárias para rodar o programa:
 
 BeautiFulSoup4, Pandas, Selenium e openpyxl
 
